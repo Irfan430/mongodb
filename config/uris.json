@@ -1,1 +1,3 @@
-
+{
+  "default": "mongodb+srv://USER:PASS@cluster0.xxxxx.mongodb.net/teachdb?retryWrites=true&w=majority&appName=Cluster0"
+}
