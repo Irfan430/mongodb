@@ -1,0 +1,14 @@
+{
+  "name": "teach-project",
+  "version": "1.0.0",
+  "type": "commonjs",
+  "main": "teach.js",
+  "scripts": {
+    "teach": "node teach.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "minimist": "^1.2.8",
+    "mongoose": "^7.6.0"
+  }
+}
